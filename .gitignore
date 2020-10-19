@@ -1,0 +1,16 @@
+/vendor
+/dist
+
+/terraform-provider-dynatrace
+/.terraform
+
+*.tfstate*
+
+*.tf
+*.tfvars
+
+*.log
+
+/.idea
+
+c.out
